@@ -1,7 +1,7 @@
 <?php
 
 $var1 = false;
-$var2 = false;
+$var2 = true;
 
 // logika AND
 //var_dump($var1 && $var2);
