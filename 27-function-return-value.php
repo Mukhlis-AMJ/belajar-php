@@ -17,3 +17,5 @@ function menghitungLuasSegitiga(int $alas, int $tinggi): int {
 
 $luasSegitiga = menghitungLuasSegitiga(4, 6);
 echo "Luas Segitiga adalah: " . $luasSegitiga;
+  // Kamu bukan siapa-siapa 
+  
